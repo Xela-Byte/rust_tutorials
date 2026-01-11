@@ -1,3 +1,1 @@
-Learn Rust by 9PM
-Finish CLI tutorial
-Completed TODO CLI
+
